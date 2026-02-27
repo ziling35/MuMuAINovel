@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.3.5-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3.6-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green.svg)
 ![React](https://img.shields.io/badge/react-18.3.1-blue.svg)
@@ -11,6 +11,18 @@
 **基于 AI 的智能小说创作助手**
 
 [特性](#-特性) • [快速开始](#-快速开始) • [配置说明](#%EF%B8%8F-配置说明) • [项目结构](#-项目结构)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 加入交流群
+
+欢迎扫码加入 QQ 交流群，一起交流 AI 小说创作心得、反馈问题、获取最新动态！
+
+<img src="frontend/public/qq.jpg" alt="QQ交流群二维码" width="300" />
 
 </div>
 
